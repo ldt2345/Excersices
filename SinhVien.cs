@@ -24,7 +24,7 @@ namespace BT2
             {
                 if (value == "")
                 {
-                    Console.WriteLine("Loi roi ku");
+                    Console.WriteLine("Loi roi ");
                     Console.ReadKey();
                 }
                 else HoTen = value;
